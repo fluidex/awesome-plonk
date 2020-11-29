@@ -32,4 +32,5 @@
     + [Zero-Knowledge: PLONK Demo 2 - Dusk](https://dusk.network/news/zero-knowledge-plonk-demo-2)
 
 ## Implementations
++ [Aztec's implementation in C++](https://github.com/AztecProtocol/barretenberg/tree/master/barretenberg/src/aztec/plonk)
 + [Matter Labs' implementation in Rust](https://github.com/matter-labs/bellman/tree/plonk_release/src/plonk)
