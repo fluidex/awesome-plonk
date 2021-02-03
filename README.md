@@ -1,8 +1,8 @@
-# awesome-plonk
+# Awesome PLONK [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Papers
 
-+ [PlonK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
++ [PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
 + [plookup: A simplified polynomial protocol for lookup tables](https://github.com/AztecProtocol/plonk-with-lookups)
 + [SHPLONK](https://eprint.iacr.org/2020/081.pdf)
 + [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)
@@ -35,10 +35,11 @@
 + [zkSummit: plookup: Speeding up the PLONK prover - Zac Williamson & Ariel Gabizon](https://youtu.be/Vdlc1CmRYRY) (with Turbo PLONK & Ultra PLONK benchmarks)
 
 ## Demo
-+ [dusk-plonk](https://github.com/dusk-network/plonk)
++ dusk-network
     + [Zero-Knowledge: PLONK Demo - Dusk](https://dusk.network/news/zero-knowledge-plonk-demo)
     + [Zero-Knowledge: PLONK Demo 2 - Dusk](https://dusk.network/news/zero-knowledge-plonk-demo-2)
 
 ## Implementations
 + [Aztec's implementation in C++](https://github.com/AztecProtocol/barretenberg/tree/master/barretenberg/src/aztec/plonk)
 + [Matter Labs' implementation in Rust](https://github.com/matter-labs/bellman/tree/plonk_release/src/plonk)
++ [dusk-plonk](https://github.com/dusk-network/plonk)
