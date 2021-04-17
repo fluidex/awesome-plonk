@@ -3,7 +3,7 @@
 ## Papers
 
 + [PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
-+ [plookup: A simplified polynomial protocol for lookup tables](https://github.com/AztecProtocol/plonk-with-lookups)
++ [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
 + [SHPLONK](https://eprint.iacr.org/2020/081.pdf)
 + [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)
 
