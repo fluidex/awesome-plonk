@@ -13,14 +13,16 @@
 ## Articles
 + [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html) by Vitalik Buterin
 + [Plonk tutorial](https://github.com/barryWhiteHat/plonk_tutorial) by barryWhiteHat
-+ metastate's articles
++ metastate's plonk-by-hand series
     * https://research.metastate.dev/plonk-by-hand-part-1/
     * https://research.metastate.dev/plonk-by-hand-part-2-the-proof/
     * https://research.metastate.dev/plonk-by-hand-part-3-verification/
 + [Multiset checks in PLONK and Plookup](https://hackmd.io/@XYwo0oEXTEGRpej1SQVMlg/ByFgSDA7D) by Ariel Gabizon
 + [Plonk and PLookup](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BJpNmNW0L) by Dmitry Khovratovich
 + [Thoughts on Plookup implementation of Sha256 and Keccak](https://hackmd.io/xfgP5_uMTZyaEJJG4EJoRQ?view) by Konstantce
-+ [TurboPLONK benchmarks](https://medium.com/aztec-protocol/plonk-benchmarks-2-5x-faster-than-groth16-on-mimc-9e1009f96dfe)
++ TurboPLONK benchmarks
+   + https://medium.com/aztec-protocol/plonk-benchmarks-2-5x-faster-than-groth16-on-mimc-9e1009f96dfe
+   + https://medium.com/aztec-protocol/plonk-benchmarks-ii-5x-faster-than-groth16-on-pedersen-hashes-ea5285353db0
 - [零知识证明 - PLONK电路原理](https://mp.weixin.qq.com/s?__biz=MzU5MzMxNTk2Nw==&mid=2247487338&idx=1&sn=2472fd94ded768157a82f8afb1b046fb)
 + AZTEC Ignition ([setup codes here](https://github.com/AztecProtocol/Setup), [verification codes here](https://github.com/AztecProtocol/ignition-verification))
     + [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
