@@ -34,6 +34,7 @@
 + [Zero Knowledge Episode 112: Dive into Plonk!](https://www.zeroknowledge.fm/112)
 + [ZK Study Club - Plonk with Zac Williamson](https://youtu.be/NqrVcDuQ8hM)
 + [Zac Williamson on PLONK and TurboPLONK at ZKSummit](https://youtu.be/ty-LZf0YCK0)
++ [zkSummit5: PLONK without FFTs - Justin Drake (EF)](https://www.youtube.com/watch?v=ffXgxvlCBvo&list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7&index=25)
 + [zkSummit: plookup: Speeding up the PLONK prover - Zac Williamson & Ariel Gabizon](https://youtu.be/Vdlc1CmRYRY) (with Turbo PLONK & Ultra PLONK benchmarks)
 
 ## Demo
