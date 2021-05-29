@@ -19,7 +19,9 @@
     * https://research.metastate.dev/plonk-by-hand-part-3-verification/
 + [Multiset checks in PLONK and Plookup](https://hackmd.io/@XYwo0oEXTEGRpej1SQVMlg/ByFgSDA7D) by Ariel Gabizon
 + [Plonk and PLookup](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BJpNmNW0L) by Dmitry Khovratovich
++ [PLONK custom gates design considerations](https://kobi.one/2021/05/20/plonk-custom-gates.html) by Kobi Gurkan
 + [Thoughts on Plookup implementation of Sha256 and Keccak](https://hackmd.io/xfgP5_uMTZyaEJJG4EJoRQ?view) by Konstantce
++ [Plonk and Poseidon](https://drive.google.com/file/d/1bZZvKMQHaZGA4L9eZhupQLyGINkkFG_b/view) (Plonk adaptation tailored to Poseidon) by Dmitry Khovratovich
 + TurboPLONK benchmarks
    + https://medium.com/aztec-protocol/plonk-benchmarks-2-5x-faster-than-groth16-on-mimc-9e1009f96dfe
    + https://medium.com/aztec-protocol/plonk-benchmarks-ii-5x-faster-than-groth16-on-pedersen-hashes-ea5285353db0
