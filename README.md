@@ -3,10 +3,15 @@
 ## Papers
 
 + [PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
+    * [slides](https://github.com/arielgabizon/Lectures/blob/master/PlonkSimonsCorrected.pdf)
 + [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)
     * Turbo-PLONK uses custom gates. Custom gates can make [Halo](https://eprint.iacr.org/2019/1021.pdf)-style Recursive Proof Composition efficient in PlonK.
         - [[BCMS20]](https://eprint.iacr.org/2020/499.pdf) further formalizes halo-style Recursive Proof Composition, and call it as an Accumulation scheme
 + [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
+    * slides:
+        * [plookup: speeding up SNARKs on non-friendly functions with lookup tables](https://github.com/arielgabizon/Lectures/blob/master/plookupzksummit2020.pdf)
+        * [Plookup in action](https://github.com/arielgabizon/Lectures/blob/master/plookupinactionDystopia2020.pdf)
++ [Public inputs in PlonK’s permutation argument](https://github.com/arielgabizon/plonk-addendum/blob/master/plonk-pubinputs.pdf)
 + [SHPLONK](https://eprint.iacr.org/2020/081.pdf)
 + [REDSHIFT: Transparent SNARKs from List Polynomial Commitment IOPs](https://eprint.iacr.org/2019/1400.pdf)
 
@@ -26,6 +31,10 @@
 + [PLONK custom gates design considerations](https://kobi.one/2021/05/20/plonk-custom-gates.html) by Kobi Gurkan
 + [Thoughts on Plookup implementation of Sha256 and Keccak](https://hackmd.io/xfgP5_uMTZyaEJJG4EJoRQ?view) by Konstantce
 + [Plonk and Poseidon](https://drive.google.com/file/d/1bZZvKMQHaZGA4L9eZhupQLyGINkkFG_b/view) (Plonk adaptation tailored to Poseidon) by Dmitry Khovratovich
++ [Non-native field arithmetic using custom gates](https://hackmd.io/@arielg/B13JoihA8)
++ [Fast recursive arguments based on Plonk and Halo](https://mirprotocol.org/blog/Fast-recursive-arguments-based-on-Plonk-and-Halo)
++ [Adding zero knowledge to Plonk-Halo](https://mirprotocol.org/blog/Adding-zero-knowledge-to-Plonk-Halo)
++ [UltraPLONK Arithmetization in Halo 2](https://zcash.github.io/halo2/concepts/arithmetization.html)
 + TurboPLONK benchmarks
    + https://medium.com/aztec-protocol/plonk-benchmarks-2-5x-faster-than-groth16-on-mimc-9e1009f96dfe
    + https://medium.com/aztec-protocol/plonk-benchmarks-ii-5x-faster-than-groth16-on-pedersen-hashes-ea5285353db0
