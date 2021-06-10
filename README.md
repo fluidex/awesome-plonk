@@ -51,6 +51,7 @@
 + [Zac Williamson on PLONK and TurboPLONK at ZKSummit](https://youtu.be/ty-LZf0YCK0)
 + [zkSummit5: PLONK without FFTs - Justin Drake (EF)](https://www.youtube.com/watch?v=ffXgxvlCBvo&list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7&index=25)
 + [zkSummit: plookup: Speeding up the PLONK prover - Zac Williamson & Ariel Gabizon](https://youtu.be/Vdlc1CmRYRY) (with Turbo PLONK & Ultra PLONK benchmarks)
++ [ZK-LDN 0x04: On Marlin and PLONK](https://www.youtube.com/watch?v=gDpwBYHjcHA)
 
 ## Demo
 + dusk-network
