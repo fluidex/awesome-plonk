@@ -3,9 +3,12 @@
 ## Papers
 
 + [PLONK: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
++ [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)
+    * Turbo-PLONK uses custom gates. Custom gates can make [Halo](https://eprint.iacr.org/2019/1021.pdf)-style Recursive Proof Composition efficient in PlonK.
+        - [[BCMS20]](https://eprint.iacr.org/2020/499.pdf) further formalizes halo-style Recursive Proof Composition, and call it as an Accumulation scheme
 + [plookup: A simplified polynomial protocol for lookup tables](https://eprint.iacr.org/2020/315.pdf)
 + [SHPLONK](https://eprint.iacr.org/2020/081.pdf)
-+ [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)
++ [REDSHIFT: Transparent SNARKs from List Polynomial Commitment IOPs](https://eprint.iacr.org/2019/1400.pdf)
 
 ## Forums
 + [PLONK Café](https://www.plonk.cafe/)
