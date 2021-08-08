@@ -41,7 +41,6 @@
 + TurboPLONK benchmarks
    + https://medium.com/aztec-protocol/plonk-benchmarks-2-5x-faster-than-groth16-on-mimc-9e1009f96dfe
    + https://medium.com/aztec-protocol/plonk-benchmarks-ii-5x-faster-than-groth16-on-pedersen-hashes-ea5285353db0
-- [零知识证明 - PLONK电路原理](https://mp.weixin.qq.com/s?__biz=MzU5MzMxNTk2Nw==&mid=2247487338&idx=1&sn=2472fd94ded768157a82f8afb1b046fb)
 + AZTEC Ignition ([setup codes here](https://github.com/AztecProtocol/Setup), [verification codes here](https://github.com/AztecProtocol/ignition-verification))
     + [Ignition: Trusted Setup MPC Ceremony for PLONK](https://medium.com/aztec-protocol/aztec-announcing-our-ignition-ceremony-757850264cfe)
         * [How the Ceremony Works - Basic](https://medium.com/aztec-protocol/aztec-how-the-ceremony-works-5c23a54e2dd9)
