@@ -17,7 +17,7 @@
 + [Public inputs in PlonK’s permutation argument](https://github.com/arielgabizon/plonk-addendum/blob/master/plonk-pubinputs.pdf)
 + [SHPLONK](https://eprint.iacr.org/2020/081.pdf)
 + [REDSHIFT: Transparent SNARKs from List Polynomial Commitment IOPs](https://eprint.iacr.org/2019/1400.pdf)
-+ Reinforced Concrete: A new ZK friendly hash function. When Plookup is enabled, it can be up to 17x faster than Poseidon (50 cycles/byte). And only 7 times slower than Blake2.
++ Reinforced Concrete: A new ZK friendly hash function. When Plookup is enabled, it can be up to 17x faster than Poseidon (50 cycles/byte), and only 7 times slower than Blake2.
     + [paper](https://drive.google.com/file/d/1MCIqD8XwKrHVBQPc26XjAmM9RyrLDpjw/view)
     + [website](https://www.rc-hash.info/)
 
