@@ -31,6 +31,7 @@
     * https://research.metastate.dev/plonk-by-hand-part-1/
     * https://research.metastate.dev/plonk-by-hand-part-2-the-proof/
     * https://research.metastate.dev/plonk-by-hand-part-3-verification/
+* 
 * [From AIRs to RAPs - how PLONK-style arithmetization works](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
 + [Multiset checks in PLONK and Plookup](https://hackmd.io/@XYwo0oEXTEGRpej1SQVMlg/ByFgSDA7D) by Ariel Gabizon
 + [Plonk and PLookup](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BJpNmNW0L) by Dmitry Khovratovich
@@ -57,6 +58,11 @@
 + [zkSummit5: PLONK without FFTs - Justin Drake (EF)](https://www.youtube.com/watch?v=ffXgxvlCBvo&list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7&index=25)
 + [zkSummit: plookup: Speeding up the PLONK prover - Zac Williamson & Ariel Gabizon](https://youtu.be/Vdlc1CmRYRY) (with Turbo PLONK & Ultra PLONK benchmarks)
 + [ZK-LDN 0x04: On Marlin and PLONK](https://www.youtube.com/watch?v=gDpwBYHjcHA)
++ [Aztec: Plonk in Dystopian Times](https://www.youtube.com/watch?v=nz_VdPbCT64)
++ [Polynomial protocols for range proofs](https://www.youtube.com/watch?v=8n3c8fbi9Ac)
++ How does PLONK work?
+    + [Part 1](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/)
+    + [Part 2](https://www.cryptologie.net/article/530/how-does-plonk-work-part-2-an-overview/)
 
 ## Demo
 + dusk-network
