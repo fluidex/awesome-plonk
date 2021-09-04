@@ -31,6 +31,7 @@
     * https://research.metastate.dev/plonk-by-hand-part-1/
     * https://research.metastate.dev/plonk-by-hand-part-2-the-proof/
     * https://research.metastate.dev/plonk-by-hand-part-3-verification/
+* [On PLONK and plookup](https://research.metastate.dev/on-plonk-and-plookup/)
 * [From AIRs to RAPs - how PLONK-style arithmetization works](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
 + [Multiset checks in PLONK and Plookup](https://hackmd.io/@XYwo0oEXTEGRpej1SQVMlg/ByFgSDA7D) by Ariel Gabizon
 + [Plonk and PLookup](https://hackmd.io/@7dpNYqjKQGeYC7wMlPxHtQ/BJpNmNW0L) by Dmitry Khovratovich
