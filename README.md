@@ -14,6 +14,12 @@
     * slides:
         * [plookup: speeding up SNARKs on non-friendly functions with lookup tables](https://github.com/arielgabizon/Lectures/blob/master/plookupzksummit2020.pdf)
         * [Plookup in action](https://github.com/arielgabizon/Lectures/blob/master/plookupinactionDystopia2020.pdf)
+* [fflonK: a Fast-Fourier inspired verifier efficient version of PlonK](https://eprint.iacr.org/2021/1167.pdf)
+   * extends KZG10 commitment scheme and allows for multiple polynomials to be represented by a single commitment
+   * requiring 6 scalar multiplications and 2 bilinear pairings
+   * verifier efficient
+      * saves gas on Ethereum
+      * at the cost of roughly tripling the prover time
 + [Public inputs in PlonK’s permutation argument](https://github.com/arielgabizon/plonk-addendum/blob/master/plonk-pubinputs.pdf)
 + [SHPLONK](https://eprint.iacr.org/2020/081.pdf)
 + [REDSHIFT: Transparent SNARKs from List Polynomial Commitment IOPs](https://eprint.iacr.org/2019/1400.pdf)
