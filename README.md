@@ -33,10 +33,7 @@
 ## Articles
 + [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html) by Vitalik Buterin
 + [Plonk tutorial](https://github.com/barryWhiteHat/plonk_tutorial) by barryWhiteHat
-+ metastate's plonk-by-hand series
-    * https://research.metastate.dev/plonk-by-hand-part-1/
-    * https://research.metastate.dev/plonk-by-hand-part-2-the-proof/
-    * https://research.metastate.dev/plonk-by-hand-part-3-verification/
++ metastate's plonk-by-hand series ([part-1](https://research.metastate.dev/plonk-by-hand-part-1/), [part-2](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/) & [part-3](https://research.metastate.dev/plonk-by-hand-part-3-verification/))
     * [plonk-by-fingers](https://github.com/adria0/plonk-by-fingers) is a toy implementation in rust
 * [On PLONK and plookup](https://research.metastate.dev/on-plonk-and-plookup/)
 * [From AIRs to RAPs - how PLONK-style arithmetization works](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
@@ -67,9 +64,7 @@
 + [ZK-LDN 0x04: On Marlin and PLONK](https://www.youtube.com/watch?v=gDpwBYHjcHA)
 + [Aztec: Plonk in Dystopian Times](https://www.youtube.com/watch?v=nz_VdPbCT64)
 + [Polynomial protocols for range proofs](https://www.youtube.com/watch?v=8n3c8fbi9Ac)
-+ How does PLONK work?
-    + [Part 1](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/)
-    + [Part 2](https://www.cryptologie.net/article/530/how-does-plonk-work-part-2-an-overview/)
++ How does PLONK work? ([Part 1](https://www.cryptologie.net/article/529/how-does-the-general-purpose-zero-knowledge-proof-system-plonk-work/), [Part 2](https://www.cryptologie.net/article/530/how-does-plonk-work-part-2-an-overview/))
 
 ## Demo
 + dusk-network
