@@ -33,7 +33,7 @@
 ## Articles
 + [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html) by Vitalik Buterin
 + [Plonk tutorial](https://github.com/barryWhiteHat/plonk_tutorial) by barryWhiteHat
-+ metastate's plonk-by-hand series ([part-1](https://research.metastate.dev/plonk-by-hand-part-1/), [part-2](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/) & [part-3](https://research.metastate.dev/plonk-by-hand-part-3-verification/))
++ metastate's plonk-by-hand series ([[1]](https://research.metastate.dev/plonk-by-hand-part-1/), [[2]](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/) & [[3]](https://research.metastate.dev/plonk-by-hand-part-3-verification/))
     * [plonk-by-fingers](https://github.com/adria0/plonk-by-fingers) is a toy implementation in rust
 * [On PLONK and plookup](https://research.metastate.dev/on-plonk-and-plookup/)
 * [From AIRs to RAPs - how PLONK-style arithmetization works](https://hackmd.io/@aztec-network/plonk-arithmetiization-air)
