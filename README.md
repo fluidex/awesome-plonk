@@ -76,3 +76,4 @@
 + [Matter Labs' implementation in Rust](https://github.com/matter-labs/bellman/tree/plonk_release/src/plonk)
 + [plonky: Recursive SNARKs based on Plonk and Halo](https://github.com/mir-protocol/plonky)
 + [dusk-plonk](https://github.com/dusk-network/plonk)
++ [ark-plonk](https://github.com/rust-zkp/ark-plonk)
